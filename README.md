@@ -114,9 +114,6 @@ python src/ensemble.py
 * Integrating the FAISS RAG pipeline directly into the master ensemble to ground the predictions in factual context.
 * Implementing `AutoModelForMultipleChoice` (DeBERTa-v3-large) for true semantic logit extraction.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ```
 
