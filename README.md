@@ -1,8 +1,4 @@
-Here is a professional, well-structured `README.md` template tailored to your **Smart MCQ Solver Challenge** project. It is inspired by standard Deep Learning/GenAI project repositories but customized specifically to the pipeline, models, and techniques you have implemented in your notebook.
 
-You can directly copy the code block below and paste it into your GitHub repository's `README.md` file.
-
----
 
 ```markdown
 # 🧠 Smart MCQ Solver Challenge
