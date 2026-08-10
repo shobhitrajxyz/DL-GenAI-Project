@@ -49,7 +49,7 @@ All experiments were tracked using Weights & Biases (W&B Run: `v20-official-crit
 ## 📁 Repository Structure
 
 * `app.py` — Streamlit web application script for real-time MCQ option ranking.
-* `dl-24f2008744-notebook-t22026 (1).ipynb` — Kaggle training notebook containing feature extraction, model definitions, training loops, and W&B logging.
+* `dl-24f2008744-notebook-t22026.ipynb` — Kaggle training notebook containing feature extraction, model definitions, training loops, and W&B logging.
 * `mcq_solver_model.joblib` — Serialized model artifacts (TF-IDF vectorizer, StandardScaler, Logistic Regression).
 * `requirements.txt` — Python dependencies for local setup and cloud deployment.
 * `README.md` — Project documentation.
