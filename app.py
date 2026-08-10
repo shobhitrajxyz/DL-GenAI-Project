@@ -4,9 +4,9 @@ import numpy as np
 import joblib
 from scipy.sparse import hstack
 
-st.set_page_config(page_title="Smart MCQ Solver AI", page_icon="🧠", layout="centered")
+st.set_page_config(page_title="Smart MCQ Solver AI", page_icon="🤖", layout="centered")
 
-st.title("🧠 Smart MCQ Solver AI 🤖")
+st.title("Smart MCQ Solver AI 🤖")
 st.markdown("**Shobhit Raj (Roll No: 24f2008744)** — *Model Deployment*")
 st.write("Enter a question prompt and 5 options to get real-time AI option rankings!")
 
